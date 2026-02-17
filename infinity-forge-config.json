@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-gate",
+  "title": "Infinity Gate",
+  "emoji": "\ud83d\udeaa",
+  "purpose": "Smart routing gateway. Directs users to the right repo based on intent, search, or token status.",
+  "tools": [
+    "Route Mapper",
+    "Traffic Analyzer",
+    "Intent Parser",
+    "Portal Links"
+  ],
+  "color": "#6c63ff",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
